@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# kodluyoruzilkrepo [patika.dev](www.patika.dev)
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 [Kodluyoruz Sayfamız](https://www.kodluyoruz.org/)
