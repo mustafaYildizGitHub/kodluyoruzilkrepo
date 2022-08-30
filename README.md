@@ -12,7 +12,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # Usage
 Open with XCode.
 ---
-#Contributing
+# Contributing
 Pull requests are accepted.
 ---
 # License
